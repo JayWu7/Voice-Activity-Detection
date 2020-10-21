@@ -1,3 +1,3 @@
 # Voice-Activity-Detection
 A strong voice activity detection in python
-# gonna to update the source code in tomorrow
+# Maybe in the future upload a detailed introduction about my code and then open-source it.
